@@ -11,6 +11,20 @@ The model uses **Logistic Regression** to classify crops, aiming to assist farme
 
 ---
 
+## 🖼️ Application Screenshots
+
+### Input Form for Environment Parameters
+
+![Smart Crop Recommendation System - Input Form](https://github.com/prathameshatkare/CROP_PREDICTION/blob/main/image/Screenshot%202025-08-05%20204253.png?raw=true)
+*Input environmental parameters for crop recommendation.*
+
+### Recommended Crop Output
+
+![Smart Crop Recommendation System - Recommendation](https://github.com/prathameshatkare/CROP_PREDICTION/blob/main/image/Screenshot%202025-08-05%20204310.png?raw=true)
+*Example of crop recommendation based on input parameters.*
+
+---
+
 ## 📖 Features
 
 - 📊 **User-friendly interface** powered by Streamlit.
